@@ -29,3 +29,11 @@ My college name is **SRK** *nenucheppanu*
 
 # links
 nagurinchi teliyali anthe [google](https://www.google.com)
+
+# Table
+
+s.no|name|marks
+----|----|-----
+1|abc|90
+2|bbc|99
+3|ccc|100
